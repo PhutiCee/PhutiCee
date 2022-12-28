@@ -7,8 +7,7 @@
   - HTML, CSS, PHP, Javascript
 - 👀 I’m interested in Game Devevelopment (Unity 3D) and 3D animations (Blender 3D)
 - 📫 How to reach me: 
-  - Whatsapp- 0826851935
-  - Facebook- Trymichel Phuti Sekwadi
+  - Email- trymichelsekwadi@gmail.com
   - Instagram- tp_sekwadi 
 
 <!---
