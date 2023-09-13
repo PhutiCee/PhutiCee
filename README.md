@@ -2,13 +2,14 @@
 - I develop Mobile Apps:
   - React Native
   - Android Studio
+  - Flutter
 - I develop Web Apps:
-  - ReactJS
+  - ReactJS => NextJS
   - HTML, CSS, PHP, Javascript
 - 👀 I’m interested in Game Devevelopment (Unity 3D) and 3D animations (Blender 3D)
 - 📫 How to reach me: 
-  - Email- trymichelsekwadi@gmail.com
-  - Instagram- [tp_sekwadi](https://www.instagram.com/tp_sekwadi/) 
+  - Email- joebrians99@gmail.com
+  - Twitter- [@CodeTechX](https://x.com/CodeTechX)
 
 <!---
 PhutiCee/PhutiCee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
