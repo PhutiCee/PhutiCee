@@ -8,7 +8,7 @@
   - HTML, CSS, PHP, Javascript
 - 👀 I’m interested in Game Devevelopment (Unity 3D) and 3D animations (Blender 3D)
 - 📫 How to reach me: 
-  - Email- joebrians99@gmail.com
+  - Email- phuti.developer@gmail.com
   - Twitter- [@CodeTechX](https://x.com/CodeTechX)
 
 <!---
