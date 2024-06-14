@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuti</h1>
-<h3 align="center">A passionate developer. Love to build beautiful websites and apps with latest tech available.
+<h3 align="center">I'm a computer scientist who is a passionate developer.
 </h3>
 
 </br>
