@@ -1,38 +1,101 @@
-<h1 align="center">Hi 👋, I'm Phuti</h1>
-<h3 align="center">I'm a computer scientist who is a passionate developer.
+<h1 align="center">Hi 👋, I'm Phuti Sekwadi</h1>
+<h3 align="center">I'm a software developer, i enjoy solving complex problems and building innovative solutions.
 </h3>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuticee&label=Profile%20views&color=0e75b6&style=flat" alt="phuticee" /> </p>
-
-- 🔭 I’m currently working on improving my skills constantly. 😂
-
-- 📝 I regularly write articles on <a href="https://phuti-blog.vercel.app/" target="blank">Phuti's Blog</a>
-
-- 💬 Ask me about **React, NextJS, Flutter**
-
-- 📫 How to reach me **phuti.developer@gmail.com**
-
-- 👀 I’m also interested:
-  
-  - <a href="https://unity.com/" target="_blank" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity 3D" height="20" style="vertical-align: text-bottom;" /></a> Game Development using Unity 3D 
-  
-  - <a href="https://www.blender.org/" target="_blank" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="Blender 3D" height="20" style="vertical-align: text-bottom;" /></a> 3D animations (Blender 3D)
-</br>
- <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/@tpsekwadi6463" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-  <a href="https://instagram.com/senpaiint3ch" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://twitter.com/senpaiintech" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-<a href="https://www.facebook.com/trymichel.phuti.3" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
-<br />
+  With a strong foundation in computer science, I love creating efficient, scalable, and user-friendly applications. I'm driven by curiosity and a love for continuous learning, always exploring new technologies to improve my skills. For more visit <a href="https://www.phutisekwadi.com/">https://www.phutisekwadi.com</a>
+</p>
+<P>Blog: <a href="https://phuti-blog.vercel.app/">Phuti's Blog</a></P>
+</br>
+<h3 align="left">▶ Connect with me:</h3>
+<p align="left">
+  <a href="mailto:phuti.developer@gmail.com" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/senpaiint3ch" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/senpaiintech" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/trymichel.phuti.3" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/@tpsekwadi6463" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 <br />
 
 <h3 align="left">▶ Languages and Tools:</h3>
 <p align="left">
-<!--   <a href="https://expressjs.com" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  -->
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <!-- <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  --><a href="https://www.w3.org/html/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a rel="nofollow" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <a href="https://flutter.dev/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" alt="Figma" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase" alt="Firebase" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" alt="Git" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux" alt="Linux" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman" alt="Postman" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css" alt="Tailwind CSS" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Blender3D-000000?style=flat&logo=blender" alt="Blender3D" />
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Unity3D-000000?style=flat&logo=unity" alt="Unity3D" />
+  </a>
+</p>
+<h3 align="left"></h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuticee&layout=compact&theme=radical" alt="phuticee" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=phuticee&label=Profile%20views&color=0e75b6&style=flat" alt="phuticee" />
+</p>
+
 
 <!---
 PhutiCee/PhutiCee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
