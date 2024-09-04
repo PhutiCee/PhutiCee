@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Phuti Sekwadi</h1>
-<h3 align="center">I'm a software developer, i enjoy solving complex problems and building innovative solutions.
+<h3 align="center">
+  I'm a software developer, and I enjoy solving complex problems and building innovative solutions.
 </h3>
 
-</br>
+<br />
+
 <p align="left">
-  With a strong foundation in computer science, I love creating efficient, scalable, and user-friendly applications. I'm driven by curiosity and a love for continuous learning, always exploring new technologies to improve my skills. For more visit <a href="https://www.phutisekwadi.com/">https://www.phutisekwadi.com</a>
+  With a strong foundation in computer science, I love creating efficient, scalable, and user-friendly applications. I'm driven by curiosity and a love for continuous learning, always exploring new technologies to improve my skills. For more, visit <a href="https://www.phutisekwadi.com/">https://www.phutisekwadi.com</a>
 </p>
-<P>Blog: <a href="https://phuti-blog.vercel.app/">Phuti's Blog</a></P>
-</br>
-<h3 align="left">▶ Connect with me:</h3>
+
+<p align="left">Blog: <a href="https://phuti-blog.vercel.app/">Phuti's Blog</a></p>
+
+<h1 align="left">▶ Connect with me:</h1>
 <p align="left">
   <a href="mailto:phuti.developer@gmail.com" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
@@ -17,7 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/senpaiintech" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.facebook.com/trymichel.phuti.3" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
@@ -26,9 +29,10 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
 <br />
 
-<h3 align="left">▶ Languages and Tools:</h3>
+<h1 align="left">▶ Languages and Tools:</h1>
 <p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter" alt="Flutter" />
@@ -88,7 +92,9 @@
     <img src="https://img.shields.io/badge/-Unity3D-000000?style=flat&logo=unity" alt="Unity3D" />
   </a>
 </p>
-<h3 align="left"></h3>
+
+<br />
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuticee&layout=compact&theme=radical" alt="phuticee" />
 </p>
